@@ -57,6 +57,52 @@
           "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/autumn/6"
         }
       ] 
+    },
+    {
+      "title": "Winter",
+      "pictures": [
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/winter/1"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/winter/2"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/winter/3"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/winter/4"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/winter/5"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/winter/6"
+        }
+      ] 
+    },
+    {
+      "title": "Summer",
+      "pictures": [
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/summer/1"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/summer/2"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/summer/3"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/summer/4"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/summer/5"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/summer/6"
+        }
+      ] 
     }
   ]
 }
