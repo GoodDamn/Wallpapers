@@ -34,6 +34,31 @@
           "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/spring/10"
         }
       ] 
-    }
+    },
+    {
+      "title": "Autumn",
+      "pictures": [
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/autumn/1"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/autumn/2"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/autumn/3"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/autumn/4"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/autumn/5"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/autumn/6"
+        }
+      ] 
+    },
+    
+    
   ]
 }
