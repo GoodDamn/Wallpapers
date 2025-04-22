@@ -1,0 +1,39 @@
+{
+  "wallpapers": [
+    {
+      "title": "Spring",
+      "pictures": [
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/1.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/2.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/3.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/4.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/5.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/6.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/7.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/8.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/9.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/10.jpg"
+        }
+      ] 
+    }
+  ]
+}
