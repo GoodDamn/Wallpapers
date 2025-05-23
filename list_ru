@@ -1,0 +1,108 @@
+{
+  "wallpapers": [
+    {
+      "title": "Весна",
+      "pictures": [
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/spring/1"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/spring/2"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/spring/3"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/spring/4"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/spring/5"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/spring/6"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/spring/7"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/spring/8"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/spring/9"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/spring/10"
+        }
+      ] 
+    },
+    {
+      "title": "Осень",
+      "pictures": [
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/autumn/1"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/autumn/2"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/autumn/3"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/autumn/4"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/autumn/5"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/autumn/6"
+        }
+      ] 
+    },
+    {
+      "title": "Зима",
+      "pictures": [
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/winter/1"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/winter/2"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/winter/3"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/winter/4"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/winter/5"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/winter/6"
+        }
+      ] 
+    },
+    {
+      "title": "Лето",
+      "pictures": [
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/summer/1"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/summer/2"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/summer/3"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/summer/4"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/summer/5"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GoodDamn/Wallpapers/main/summer/6"
+        }
+      ] 
+    }
+  ]
+}
